@@ -92,3 +92,4 @@ Kalau data lo di Excel/CSV, ada 2 cara:
 - Phone number harus di-normalize (e.g. semua jadi format `08xxx` atau `+62xxx`)
 - AI response di-cache di kolom `ai_recommendation_cache` supaya tidak repeat call
 - Cache invalidated setiap pelanggan order minuman baru
+# waiterapp
